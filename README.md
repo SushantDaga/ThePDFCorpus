@@ -33,6 +33,9 @@ This repo aims to provide the largest filterable PDF corpus. In addition to raw 
 ### CC-PDF pipeline
 ![CC-PDF pipeline](./doc_images/ccpdf-pipeline.png)
 
+## License
+Aim is to provide this work and dataset in as permissible as possible license. Need to figure out the nitty gritty details b/w MIT, Apache-2, Creative Commons, etc licenses. 
+
 
 [^1] CCpdf: Building a High Quality Corpus for Visually Rich Documents from Web Crawl Data
 ```bibtex
