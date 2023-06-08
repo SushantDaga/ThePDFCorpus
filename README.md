@@ -37,6 +37,11 @@ This repo aims to provide the largest filterable PDF corpus. In addition to raw 
 Aim is to provide this work and dataset in as permissible as possible license. Need to figure out the nitty gritty details b/w MIT, Apache-2, Creative Commons, etc licenses. 
 
 
+## Contribution
+- Currently using Github issues to indicate WIP features
+- We will be dealing in TBs of data, you can contribute compute credits as well
+
+
 [^1] CCpdf: Building a High Quality Corpus for Visually Rich Documents from Web Crawl Data
 ```bibtex
 @misc{turski2023ccpdf,
